@@ -1,7 +1,7 @@
 # Azure OpenAI no Playground
 ## Guia Completo para Implementação e Uso
 
-![Azure OpenAI](https://images.app.goo.gl/4RyXEi5fj5LK3vSS7)
+![Azure OpenAI](https://raw.githubusercontent.com/microsoft/azureml-examples/main/tutorials/azureml-in-a-day/media/azure-openai.jpg)
 
 
 > Resumo do curso ministrado por **Pablo Lopes**, Cloud Advocate na Microsoft (@techdevpablo)
